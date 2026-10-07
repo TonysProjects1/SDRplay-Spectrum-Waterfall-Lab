@@ -1,0 +1,6 @@
+{
+  "name": "SDRplay Spectrum & Waterfall Lab",
+  "description": "Cross-platform real-time radio frequency (RF) spectrum analyzer, waterfall visualizer, and capture studio for SDRplay devices across Windows, Linux, ARM, and x64.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
